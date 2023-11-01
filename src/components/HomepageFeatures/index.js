@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use – test!',
+    title: 'Қол жетімділік және икемділік',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Подкасттарға тыңдаушыға немесе көрерменге ыңғайлы кез келген уақытта қол жеткізуге болады. Бұл аудитория мазмұнды кез келген жерде және кез келген уақытта смартфондар, планшеттер немесе компьютерлер сияқты құрылғыларды пайдалана алады дегенді білдіреді. Бұл икемділік подкастты тыңдаушыларға ыңғайлы етеді және оларға подкасттарды қашан және қайда тыңдау керектігін таңдауға мүмкіндік береді.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters - test from mobile?',
+    title: 'Мазмұнның әртүрлілігі',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Подкастинг мазмұнның кең ауқымына арналған платформаны ұсынады. Бұл білім беру бағдарламалары, ойын-сауық шоулары, жаңалықтар бағдарламалары, тақырыптарды талқылау, сұхбаттар және т.б. болуы мүмкін. Бұл әртүрлілік подкасттарға әртүрлі қызығушылықтары бар аудиторияларды тартуға мүмкіндік береді.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Контент жасаушылар үшін тәуелсіздік және қолжетімділік',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Подкастинг үлкен бюджеттерді немесе арнайы жабдықты қажет етпейді. Бұл кез келген адам подкасттарды, аудио немесе бейне мазмұнды жасап, оны аудиториямен бөлісе алатынын білдіреді. Бұл тәуелсіздік пен қол жетімділік подкастингті әртүрлі дауыстар мен перспективаларды естуге және бөлісуге болатын платформаға айналдырады.
       </>
     ),
   },
