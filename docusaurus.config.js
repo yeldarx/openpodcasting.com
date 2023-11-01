@@ -5,11 +5,7 @@ const config = {
   title: 'Тәуелсіз технология, шексіз контент',
   tagline: 'Подкастиң бойынша ашық кітап',
   favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
   url: 'https://openpodcasting.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
