@@ -7,18 +7,10 @@ const config = {
   favicon: 'img/favicon.ico',
   url: 'https://openpodcasting.com',
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'yeldarx', // Usually your GitHub org/user name.
-  projectName: 'openpodcasting.com', // Usually your repo name.
-
+  organizationName: 'yeldarx',
+  projectName: 'openpodcasting.com',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
