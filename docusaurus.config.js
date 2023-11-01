@@ -48,6 +48,7 @@ const config = {
         logo: {
           alt: 'Ашық подкастиң кітабы, лого',
           src: 'img/eye-in-speech-bubble-svgrepo-com.svg',
+          srcDark: 'img/eye-in-speech-bubble-svgrepo-com-3.svg',
         },
         items: [
           {
