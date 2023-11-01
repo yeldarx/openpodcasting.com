@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/yeldarx/openpodcasting.com/tree/main/docs',
+            'https://github.com/yeldarx/openpodcasting.com/tree/main/',
         },
         blog: false,
         theme: {
