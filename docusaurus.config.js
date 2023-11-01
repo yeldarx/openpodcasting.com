@@ -26,11 +26,7 @@ const config = {
           editUrl:
             'https://github.com/yeldarx/openpodcasting.com/tree/main/docs',
         },
-        blog: {
-          showReadingTime: true,
-          editUrl:
-            'https://github.com/yeldarx/openpodcasting.com/tree/main/docs',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
