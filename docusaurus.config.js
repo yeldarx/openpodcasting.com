@@ -2,8 +2,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Тәуелсіз технология, шексіз контент',
-  tagline: 'Подкастиң бойынша ашық кітап',
+  title: 'Подкастиң',
+  tagline: 'Тәуелсіз технология, шексіз контент',
   favicon: 'img/favicon.ico',
   url: 'https://openpodcasting.com',
   baseUrl: '/',
