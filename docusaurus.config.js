@@ -44,10 +44,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Подкастиң',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Ашық подкастиң кітабы, лого',
+          src: 'img/eye-in-speech-bubble-svgrepo-com.svg',
         },
         items: [
           {
