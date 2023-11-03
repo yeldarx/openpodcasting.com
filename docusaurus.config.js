@@ -62,7 +62,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Елдар Құдайбергеновтың жобасы.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Елдар Құдайбергеновтың бастамасы.`,
       },
       prism: {
         theme: prismThemes.github,
