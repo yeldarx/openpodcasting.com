@@ -3,9 +3,11 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
+
+  
   {
     title: 'Қол жетімділік және икемділік',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/family-3-generations-svgrepo-com.svg').default,
     description: (
       <>
         Тыңдаушы не көрермен подкастарды өзіне ыңғайлы кез келген уақытта тұтына алады. Ал подкаст эпизодтарын алдын ала жүктеп алса - интернеттің де болуы міндетті емес.
@@ -14,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'Контенттің алуандығы',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/supporting-business-person-svgrepo-com.svg').default,
     description: (
       <>
         Подкаст деген тек қана әңгіме айту, сұхбат емес. Бұл білім беру, ойын-сауық, жаңалықтар бағдарламалары мен қатар, тақырыптарды талқылау, сұхбаттар және т.б. болуы мүмкін.
@@ -23,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Тәуелсіздік',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/telework-multiple-people-svgrepo-com.svg').default,
     description: (
       <>
         Подкастиң қомақты қаражат немесе арнайы жабдықты қажет етпейді. Кез келген адам үйінде немесе офисінде отырып-ақ подкаст жасап, аудиториямен бөлісе алады.
