@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Алғы сөз
+            Алғы сөз 📖
           </Link>
         </div>
       </div>
@@ -32,8 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Подкастиң бойынша ашық кітап">
+      title={`Подкастиң бойынша ашық кітап`}
+      description="Подкастиң: тәуелсіз технология, шексіз контент">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

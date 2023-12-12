@@ -2,8 +2,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Подкастиң',
-  tagline: 'Тәуелсіз технология, шексіз контент',
+  title: 'Подкастиң: тәуелсіз технология, шексіз контент',
+  tagline: 'Подкастиң бойынша ашық кітап',
   favicon: 'img/favicon.ico',
   url: 'https://openpodcasting.com',
   baseUrl: '/',
@@ -15,6 +15,7 @@ const config = {
     defaultLocale: 'kk',
     locales: ['kk'],
   },
+  titleDelimiter: '•',
 
   presets: [
     [
@@ -37,8 +38,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
+        },
+      },
       navbar: {
         title: 'Подкастиң',
         logo: {
@@ -51,18 +56,18 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Кітап',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/yeldarx/openpodcasting.com/',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
       footer: {
-        style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Елдар Құдайбергеновтың бастамасы.`,
+        style: 'light',
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://yeldar.org" target="_blank">Елдар Құдайбергенов</a>`,
       },
       prism: {
         theme: prismThemes.github,

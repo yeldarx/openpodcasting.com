@@ -4,6 +4,25 @@ import styles from './styles.module.css';
 
 const FeatureList = [
 
+  {
+    title: 'Тәуелсіздік',
+    Svg: require('@site/static/img/telework-multiple-people-svgrepo-com.svg').default,
+    description: (
+      <>
+        Подкастиң қомақты қаражат немесе арнайы жабдықты қажет етпейді. Кез келген адам үйінде немесе офисінде отырып-ақ подкаст жасап, аудиториямен бөлісе алады.
+      </>
+    ),
+  },
+  
+  {
+    title: 'Контенттің алуандығы',
+    Svg: require('@site/static/img/supporting-business-person-svgrepo-com.svg').default,
+    description: (
+      <>
+        Подкаст деген тек қана әңгіме айту, сұхбат емес. Бұл білім беру, ойын-сауық, жаңалықтар бағдарламалары мен қатар, тақырыптарды талқылау, сұхбаттар және т.б. болуы мүмкін.
+      </>
+    ),
+  },
   
   {
     title: 'Қол жетімділік және икемділік',
@@ -14,24 +33,8 @@ const FeatureList = [
       </>
     ),
   },
-  {
-    title: 'Контенттің алуандығы',
-    Svg: require('@site/static/img/supporting-business-person-svgrepo-com.svg').default,
-    description: (
-      <>
-        Подкаст деген тек қана әңгіме айту, сұхбат емес. Бұл білім беру, ойын-сауық, жаңалықтар бағдарламалары мен қатар, тақырыптарды талқылау, сұхбаттар және т.б. болуы мүмкін.
-      </>
-    ),
-  },
-  {
-    title: 'Тәуелсіздік',
-    Svg: require('@site/static/img/telework-multiple-people-svgrepo-com.svg').default,
-    description: (
-      <>
-        Подкастиң қомақты қаражат немесе арнайы жабдықты қажет етпейді. Кез келген адам үйінде немесе офисінде отырып-ақ подкаст жасап, аудиториямен бөлісе алады.
-      </>
-    ),
-  },
+
+
 ];
 
 function Feature({Svg, title, description}) {
