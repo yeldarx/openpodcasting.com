@@ -1,0 +1,8 @@
+{
+  "label": "Аудио-подкаст",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Аудио-подкаст деген не?"
+  }
+}
