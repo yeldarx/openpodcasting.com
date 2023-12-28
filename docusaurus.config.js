@@ -48,9 +48,8 @@ const config = {
       navbar: {
         title: 'Подкастиң',
         logo: {
-          alt: 'Ашық подкастиң кітабы, лого',
-          src: 'img/infinite-svgrepo-com.svg',
-          srcDark: 'img/infinite-svgrepo-com-dark.svg',
+          src: 'img/logo-v3.png',
+          // srcDark: 'img/infinite-svgrepo-com-dark.svg',
         },
         items: [
           {
