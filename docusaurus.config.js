@@ -48,8 +48,8 @@ const config = {
       navbar: {
         title: 'Подкастиң',
         logo: {
-          src: 'img/logo-v3.png',
-          // srcDark: 'img/infinite-svgrepo-com-dark.svg',
+          src: 'img/rss-blue-white-svgrepo-com.svg',
+          srcDark: 'img/rss-orange-white-svgrepo-com.svg',
         },
         items: [
           {
