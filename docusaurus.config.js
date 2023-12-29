@@ -23,6 +23,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          // customDocsPath: "book",
+          // baseUrl: '/book/',
           sidebarPath: './sidebars.js',
           editUrl:
             'https://github.com/yeldarx/openpodcasting.com/tree/main/',
