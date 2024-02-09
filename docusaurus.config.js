@@ -13,7 +13,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   i18n: {
     defaultLocale: 'kk',
-    locales: ['kk'],
+    locales: ['kk', 'en'],
   },
   titleDelimiter: '•',
 
