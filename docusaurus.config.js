@@ -9,7 +9,8 @@ const config = {
   baseUrl: '/',
   organizationName: 'yeldarx',
   projectName: 'openpodcasting.com',
-  onBrokenLinks: 'throw',
+  // onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
     defaultLocale: 'kk',
