@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   i18n: {
     defaultLocale: 'kk',
-    locales: ['kk', 'en'],
+    locales: ['kk'],
   },
   titleDelimiter: '•',
 
