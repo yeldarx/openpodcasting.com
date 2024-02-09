@@ -25,6 +25,7 @@ const config = {
         docs: {
           // customDocsPath: "book",
           // baseUrl: '/book/',
+          routeBasePath: '/book',
           sidebarPath: './sidebars.js',
           editUrl:
             'https://github.com/yeldarx/openpodcasting.com/tree/main/',
