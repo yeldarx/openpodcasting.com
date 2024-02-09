@@ -23,8 +23,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          // customDocsPath: "book",
-          // baseUrl: '/book/',
           routeBasePath: '/book',
           sidebarPath: './sidebars.js',
           editUrl:
