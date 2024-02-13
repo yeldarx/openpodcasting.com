@@ -20,3 +20,7 @@ We welcome contributions to improve and enhance this book! If you would like to 
 - You are free to submit pull requests with proposed changes, improvements, or additions to this repository, including substantive changes to the text.
 - Make sure your pull request includes a clear description of the proposed changes.
 - By submitting a pull request, you agree to license your contributions under the terms of the CC BY-NC-ND 4.0 license.
+
+---
+
+*If you have any questions about this book or contributing to this project, please feel free to contact mail@yeldar.org.*
