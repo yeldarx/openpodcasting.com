@@ -68,7 +68,7 @@ const config = {
       },
       footer: {
         style: 'light',
-        copyright: `Copyright © 2023 - ${new Date().getFullYear()} <a href="https://yeldar.org" target="_blank">Елдар Құдайбергенов</a> • <a href="https://yeldar.org/blog/tags/podbook" target="_blank">Блог</a> • <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>`,
+        copyright: `Copyright © 2023 - ${new Date().getFullYear()} <a href="https://yeldar.org" target="_blank">Елдар Құдайбергенов</a> • <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>`,
       },
       prism: {
         theme: prismThemes.github,
